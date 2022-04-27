@@ -1,4 +1,3 @@
-# Toi bị khùng 🙂
 - 👋 Hi, I’m @SusanQuynh
 - 👀 I’m interested in music
 - 🌱 I’m currently learning AI
