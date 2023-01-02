@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SusanQuynh
 - 👀 I’m interested in music
 - 🌱 I’m currently learning AI
-- 📫 How to reach me[https://susanquynh.github.io/]
+- 📫 How to reach me https://susanquynh.github.io/
 
 <details>
 <!---
