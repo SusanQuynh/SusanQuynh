@@ -22,11 +22,11 @@ An end-to-end Python pipeline that builds a labeled color dataset for a **person
 
 ## Education
 
-| School | Years |
-| --- | --- |
-| **University of Texas at Arlington** (UTA) | 2026 – present |
-| **Tarrant County College** (TCC) | 2024 – 2026 |
-| **FPT University** | 2021 – 2023 |
+| School | Years | Notes |
+| --- | --- | --- |
+| **University of Texas at Arlington** (UTA) | 2026 – present | Current |
+| **Tarrant County College** (TCC) | 2024 – 2026 | Transferred to UTA |
+| **FPT University** | 2021 – 2023 | Coursework in AI, data structures, databases, and math for ML |
 
 ## Skills
 
