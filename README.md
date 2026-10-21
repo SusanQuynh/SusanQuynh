@@ -18,9 +18,11 @@ An end-to-end Python pipeline that builds a labeled color dataset for a **person
 
 `Python` `pandas` `NumPy` `OpenCV` `Selenium` `Oracle SQL`
 
+➡️ **[View the code](https://github.com/SusanQuynh/personal_color_match)**
+
 ## Skills
 
-**Languages:** Python · Java · C++ · SQL · JavaScript
+**Languages:** Python · Java · C++ · SQL · JavaScript · HTML/CSS
 
 **ML & data:** pandas · NumPy · OpenCV · data scraping and cleaning · dataset labeling
 
@@ -28,7 +30,8 @@ An end-to-end Python pipeline that builds a labeled color dataset for a **person
 
 - **Math for ML**: linear algebra (SVD, covariance), probability and statistics, discrete math
 - **Data structures and algorithms**: linked lists, stacks, queues, binary trees, and graphs, implemented from scratch in Python and Java
-- **Databases**: relational design and SQL (Oracle)
+- **Databases**: relational schema design, joins and aggregation, views, stored procedures, functions, and triggers (SQL Server, Oracle); built in team assignments
+- **Web basics**: a calculator and a small browser game in HTML, CSS, and JavaScript
 
 ---
 
