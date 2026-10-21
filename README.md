@@ -1,6 +1,6 @@
 # Hi, I'm Susan Quynh
 
-**Computer science student building toward a career in AI / machine learning.**
+**Computer science student at the University of Texas at Arlington, building toward a career in AI / machine learning.**
 I like the unglamorous half of ML: collecting messy real-world data, cleaning it, and turning it into a dataset a model can actually learn from.
 
 > [!NOTE]
@@ -19,6 +19,14 @@ An end-to-end Python pipeline that builds a labeled color dataset for a **person
 `Python` `pandas` `NumPy` `OpenCV` `Selenium` `Oracle SQL`
 
 ➡️ **[View the code](https://github.com/SusanQuynh/personal_color_match)**
+
+## Education
+
+| School | Years | Notes |
+| --- | --- | --- |
+| **University of Texas at Arlington** (UTA) | 2026 – present | Current |
+| **Tarrant County College** (TCC) | 2024 – 2026 | Transferred to UTA |
+| **FPT University** | 2021 – 2023 | Coursework: data structures, databases, discrete math, probability, math for AI |
 
 ## Skills
 
